@@ -4,7 +4,7 @@ import random
 print("Piedra Papel o Tijeras")
 
 #input
-print()
+
 print("Elige:")
 print("1. Piedra")
 print("2. Papel")
@@ -15,6 +15,7 @@ User = int(input())
 Machine = random.randint(1,3)
 
 #procesing
+
 print("Resultados")
 if User == 1:
     if Machine == 1:
@@ -49,5 +50,7 @@ elif User == 3:
 else:
     print("ERROR!: Elección no valida")
     exit()
+
 #output
+
 print("---------------------------------")
