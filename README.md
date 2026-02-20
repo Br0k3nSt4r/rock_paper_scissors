@@ -47,8 +47,9 @@ Programa para jugar al Piedra Papel o Tijeras pero en la terminal
 -     exit()
 
 ### Variable de salida
-- Es Positivo
-- Es Negativo
+- Ganaste
+- Empate
+- Perdiste
 
 ## Diseño
 
@@ -56,4 +57,4 @@ Programa para jugar al Piedra Papel o Tijeras pero en la terminal
 
 ## Construccion
 
-- Codigo implementado en el archivo "positive_number.py"rock_paper_scissors
+- Codigo implementado en el archivo "rock_paper_scissors.py"
